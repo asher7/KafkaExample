@@ -3,6 +3,8 @@ FROM openjdk:17
 
 # Set the working directory inside the container
 WORKDIR /app
+
+
 # Copy the compiled JAR file into the container
 COPY KafkaExample/target/KafkaExample-0.0.1-SNAPSHOT.jar app.jar
 
