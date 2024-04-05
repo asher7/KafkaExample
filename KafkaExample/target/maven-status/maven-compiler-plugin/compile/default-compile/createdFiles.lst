@@ -1,0 +1,8 @@
+com\example\kafka\KafkaExample\DTO\UserDetails.class
+com\example\kafka\KafkaExample\Controller\MessagingController.class
+com\example\kafka\KafkaExample\Kafka\JsnoKafkaProducer.class
+com\example\kafka\KafkaExample\KafkaExampleApplication.class
+com\example\kafka\KafkaExample\Kafka\KafkaConsumer.class
+com\example\kafka\KafkaExample\Config\KafkaTopicConfig.class
+com\example\kafka\KafkaExample\Kafka\JsonKafkaConsumer.class
+com\example\kafka\KafkaExample\Kafka\KafkaProducer.class
