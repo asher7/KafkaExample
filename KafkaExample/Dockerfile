@@ -15,4 +15,4 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 # COPY target/kafkaExample-0.0.1-SNAPSHOT.jar kafkaExample.jar
 
 # Specify the entry point for the container
-?ENTRYPOINT ["java", "-jar", "kafkaExample.jar"]
+# ENTRYPOINT ["java", "-jar", "kafkaExample.jar"]
